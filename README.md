@@ -1,4 +1,5 @@
-### Hi there 👋
+![Kay Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-awe-some&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats)
+
 
 <!--
 **k-awe-some/k-awe-some** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
